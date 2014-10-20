@@ -19,7 +19,8 @@
   },
   "main": "./lib/airplay",
   "dependencies": {
-    "plist": ">=0.2.1"
+    "plist": ">=0.2.1",
+    "mdns": "joar/node_mdns"
   },
   "scripts": {
   },
